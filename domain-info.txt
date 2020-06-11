@@ -1,0 +1,13 @@
+42paulstreet.com  is registered with Hover.com
+the data should reside at mwand.github.io/42paulstreet
+
+In Settings at github, the "Custom Domain" is set to
+www.42paulstreet.com .
+
+At hover.com, we have a CNAME record with "host" as www and "value" as
+mwand.github.io
+
+And a "forward" with name 42paulstreet.com "forwarding to"
+http://www.42paulstreet.com 
+
+DON'T CHANGE ANY OF THIS!!!
